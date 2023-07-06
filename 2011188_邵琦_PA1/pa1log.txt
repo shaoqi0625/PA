@@ -1,0 +1,1064 @@
+commit 4d21234a8b5e7cee5cd3e569410191ca1b0aa2f4
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 20 07:51:26 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     07:51:26 up 42 min,  1 user,  load average: 0.21, 0.11, 0.04
+    a50864ce7622e010c05011d96c4507e3940f4a70
+
+commit 45631282a373b3012e14096ed579918852e57f1c
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 20 07:51:26 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     07:51:26 up 42 min,  1 user,  load average: 0.21, 0.11, 0.04
+    f82da6802ef6d755b69f7d4c053ebbfa434581
+
+commit dc5945b245e77cc5ccff003c5a9c9ede20ef8901
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 20 07:49:46 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     07:49:46 up 41 min,  1 user,  load average: 0.08, 0.08, 0.03
+    675049e03a91d1abe4b4dbc6807f3f6f245fedaf
+
+commit 96630d19fd99988b7fad7d3094ad9be090b876fe
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 20 07:49:40 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     07:49:40 up 40 min,  1 user,  load average: 0.08, 0.09, 0.03
+    27818026b8c3a702aa918bea03bd5924444ae3d
+
+commit 6c870c865d2e5c5d0bf699294a1fff1c225fa2ad
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 20 07:49:40 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     07:49:40 up 40 min,  1 user,  load average: 0.08, 0.09, 0.03
+    1e47b51a3dc0d553572750f63a998ebbb606294
+
+commit 04c0fce249b5f1e82dd78751678603e0574e97c1
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Sun Mar 19 08:47:06 2023 -0700
+
+    PA1 phase3 finished
+
+commit 131393d02ca971d7b7ebdd27d30cf1aaae45d9ec
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:45:34 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:45:34 up 58 min,  1 user,  load average: 0.01, 0.03, 0.00
+    208079c4da4bbd126dc04bd67a4db56adaedf2a6
+
+commit e95f456ef13aad3ff2f594bf7add6745338d6fa0
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:45:34 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:45:34 up 58 min,  1 user,  load average: 0.01, 0.03, 0.00
+    918052dbeb3674f1549c5c13257e1ed26851fcf0
+
+commit 5206df36207fd3cfecaa29b4e5a06a0a9e2d7358
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:42:33 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:42:33 up 55 min,  1 user,  load average: 0.00, 0.03, 0.00
+    860800eb8f47e4eee37b3cd968bab9993813599f
+
+commit 8b60003ef013e738e27f37eb3aafef807c5be23c
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:42:04 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:42:04 up 55 min,  1 user,  load average: 0.00, 0.03, 0.00
+    6df676d4582b2dc3263b064fdd63dc28ad9fdc1
+
+commit dac51b6c9df31fe4327fdb8bbeb10661cb120dcf
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:42:04 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:42:04 up 55 min,  1 user,  load average: 0.00, 0.03, 0.00
+    933ea96e683a9a4e59e7376072b6f9725f3090bd
+
+commit d84c53d5c5fc440e5d0599421d3aa7396dd70660
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:40:10 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:40:10 up 53 min,  1 user,  load average: 0.02, 0.05, 0.01
+    b600b51a2a8e5c8c4000262bb042621a550eb4cc
+
+commit 972ae1888fa9998e7fab9b91122822f8b267afc8
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:39:57 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:39:57 up 53 min,  1 user,  load average: 0.03, 0.05, 0.01
+    108251a2b3108768665f32826140814ded05e6fd
+
+commit 1357b4cf89693e5f4c7564502eb2efc55563994b
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:39:57 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:39:57 up 53 min,  1 user,  load average: 0.03, 0.05, 0.01
+    92d47d4e7ca346a09c91d9ecbcb168f08b113b85
+
+commit 3b2e6dfcb9718af29884839d05a409e854ea7644
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:37:54 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:37:54 up 51 min,  1 user,  load average: 0.07, 0.06, 0.01
+    38c7dfdbe79cba3195771677f2512bd79268d5d4
+
+commit c92730b92792dd4097a731bbd69299dfa9741ed6
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:36:51 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:36:51 up 50 min,  1 user,  load average: 0.02, 0.05, 0.01
+    2e613ef537e3721ffda4506f1c8edb26541c04ab
+
+commit 4b7cf3e1ec802197bd70e0bdfc93b396906878c3
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:31:38 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:31:38 up 44 min,  1 user,  load average: 0.00, 0.02, 0.00
+    444f4f72630fc9866f24e2dcd4016883c189cac
+
+commit 525383593b910c8a8f7dacecbc69e1388cfdae26
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:31:38 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:31:38 up 44 min,  1 user,  load average: 0.00, 0.02, 0.00
+    c847bb23afda60ef699494c397148be7edb332ff
+
+commit 7b63d72d9cae8dc353565d44c30411de5fc5c802
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:27:53 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:27:53 up 41 min,  1 user,  load average: 0.10, 0.04, 0.01
+    8420ba5d1619dd11e28f87cf6c42fa13b3658a9f
+
+commit cb7f06b76e3768f3fac02d920154b8ac436ef532
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:25:58 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:25:58 up 39 min,  1 user,  load average: 0.08, 0.02, 0.01
+    a3167642483cabf833ef09fde4879b5e71c6a846
+
+commit 5d15f0ac0d3d4aebfde47ed9e8687679b4e3215f
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:25:58 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:25:58 up 39 min,  1 user,  load average: 0.08, 0.02, 0.01
+    145756e0ad2a6df618554dad58819a18ec03d7d9
+
+commit 262fdcf6df59cbe61d0fabf3ed474d8380bc21b4
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:22:40 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:22:40 up 35 min,  1 user,  load average: 0.00, 0.00, 0.01
+    8244cf7d902a4d5355eba36ed48f3f015361dcdb
+
+commit 95cf2350f34b6549abbf821b463c9c524c4b006c
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:18:45 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:18:45 up 31 min,  1 user,  load average: 0.00, 0.02, 0.03
+    d974329fb038b98a6cdadf7fd2e292f8cef85c2
+
+commit 68416003a8de4f4444403d071d61ebb4a1e5a05c
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:16:33 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:16:33 up 29 min,  1 user,  load average: 0.02, 0.03, 0.05
+    1b76ea57a664c1fb11dfaeecdba42bba989d672e
+
+commit 871974294863556f9f5ea3b60219c00190e63133
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 08:16:33 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:16:33 up 29 min,  1 user,  load average: 0.02, 0.03, 0.05
+    e9b3d4be690968df9ed2ff646cefb160fc3e0e9
+
+commit ccac8bc07e3d3269e752438c17befba8c26f7a2a
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 01:26:23 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:26:23 up  2:20,  1 user,  load average: 0.04, 0.02, 0.00
+    9da3b30f7d0974e85be9b181f0a6f54c7ca2feb
+
+commit def9d6f2c98f3cc2dbbd21765525e9b7197a5657
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 01:26:22 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:26:22 up  2:20,  1 user,  load average: 0.04, 0.02, 0.00
+    789029f381f40192b85f667fbf57b19faa0bc91
+
+commit c002f8d5ead2ec29df923d4b0009b518b007f786
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 01:03:05 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:03:05 up  1:56,  1 user,  load average: 0.12, 0.10, 0.03
+    af5b86e35e7bfef58f410e52e4a468089809b0b3
+
+commit 78ddbabe5509c8c1f49a31b173279e4c08ab6abd
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 01:03:05 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:03:05 up  1:56,  1 user,  load average: 0.12, 0.10, 0.03
+    4ebcfe0429ce46a31a48e91d39852ab784845284
+
+commit c1fc6c9b3aac6494a6eaad85392d2e578bb5320a
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 00:28:43 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     00:28:43 up  1:22,  1 user,  load average: 0.09, 0.08, 0.02
+    12d6dae05de4df01480033085cc0068417b2198c
+
+commit ae009dab2950df75ec2c2aabf4314cf929dc81ae
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 19 00:28:43 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     00:28:43 up  1:22,  1 user,  load average: 0.09, 0.08, 0.02
+    4017176c6e4491abdc7d3299ff31d23b580aba
+
+commit b2e8a1d6d20d373a42296400b033f5a3afccd6c8
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:23:29 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:23:29 up 22 min,  1 user,  load average: 0.97, 0.52, 0.24
+    f605cd5e3fa7306a8fd35191e5cdefafe04d728f
+
+commit 6ac33ff7dbd48ccbc3fc7fc57e5217860bd0ef72
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:23:29 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:23:29 up 22 min,  1 user,  load average: 0.97, 0.52, 0.24
+    4808ccb935186ce7160965e71cdb184a6786222d
+
+commit 673f6d9ea691fffc858ff938edca5021e5538607
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:22:02 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:22:02 up 21 min,  1 user,  load average: 0.85, 0.34, 0.16
+    62c14507a5524eb7e4450afbf6f4d556ddf91ed
+
+commit b195a607ac0e27a7cdcfea8bbf7bf11c62c8ff2a
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:22:02 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:22:02 up 21 min,  1 user,  load average: 0.85, 0.34, 0.16
+    250de791c188e76aa9e64bf92376f3b5b982a48c
+
+commit 16632cf51b76549029dff0cd98f8617eb57e5b53
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:21:28 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:21:28 up 20 min,  1 user,  load average: 0.75, 0.27, 0.13
+    90da1a0e64e9aa1657521dd5c908b6e66814cb82
+
+commit f5eccccbd3ebcbb28670a95595eae9dc9c68a247
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:21:28 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:21:28 up 20 min,  1 user,  load average: 0.75, 0.27, 0.13
+    3b5b1ae78659ced6da2339fc463f0a25ab5d143
+
+commit ce875bb53f533815f838f845bf195ccfd5a060c6
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:20:48 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:20:48 up 20 min,  1 user,  load average: 0.35, 0.14, 0.09
+    1465f32861dd878e132c5d7fda8e737dd76c3894
+
+commit 609b3ac340a2c217a82c3444856d76d3786324c3
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:20:41 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:20:41 up 20 min,  1 user,  load average: 0.23, 0.11, 0.08
+    5381086d935266c77225074e03bbe68dab19e4c
+
+commit 365c9a944693a8228f133712ab3a549b7bb42fca
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:20:41 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:20:41 up 20 min,  1 user,  load average: 0.23, 0.11, 0.08
+    62a051846051988d6e61d80db7d5fb314127543
+
+commit 9da30adc4db463413ada2d655b0364a69635dc29
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:16:53 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:16:53 up 16 min,  1 user,  load average: 0.10, 0.06, 0.06
+    48fc8c1035963c52fcfc438bb4beb8c259d6e64d
+
+commit e319b2bc0d45293e3d1118a14ee6546cd18bfc15
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:16:53 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:16:53 up 16 min,  1 user,  load average: 0.10, 0.06, 0.06
+    d092d25dc24100b3bcece051d6c0345c1bd2ea9e
+
+commit 15ff38de898e293d185189f7f610eeb972505907
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:15:45 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:15:45 up 15 min,  1 user,  load average: 0.00, 0.03, 0.05
+    dbbad390b0280fb6a3ce05f43cec5c6bb97aba3e
+
+commit fecea6e715f03d662e37615aeb871a00d631ca0f
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:15:45 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:15:45 up 15 min,  1 user,  load average: 0.00, 0.03, 0.05
+    abe2473da378ebda4f40e57dac2401f3e334baf
+
+commit fdfbb43464304a28c713220a7605f9d52d9cdaf4
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 08:04:25 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     08:04:25 up 3 min,  1 user,  load average: 0.10, 0.23, 0.11
+    c218ff212c19ee5be54f9cb89a58c8085ee0844d
+
+commit e7082e40462ab9231ab49d64dec3cc5e959f66dc
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 01:59:56 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:59:56 up  1:21,  1 user,  load average: 0.06, 0.11, 0.14
+    8f6733859e0330862d8a8e72aa8eeed1d8357f67
+
+commit a68edf96d19c0e0ebc1bd667d11bbae515749db1
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 01:59:56 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:59:56 up  1:21,  1 user,  load average: 0.06, 0.11, 0.14
+    3e541197ede91d86d0ff22c945f8dceabd0ce227
+
+commit 0f05679ceb4ea7d641c52271e1cb4bf20f9c9713
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 01:59:20 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:59:20 up  1:20,  1 user,  load average: 0.01, 0.11, 0.15
+    7c3b53b19fa1a5aa28e0a5eaaeadeffc147d2781
+
+commit 6c9cd37e9000200a70bc8e3b2ea9fb6c619d844e
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 01:59:20 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:59:20 up  1:20,  1 user,  load average: 0.01, 0.11, 0.15
+    d362b51e215cdd1a21df0b7a8ab3f739a2bc8085
+
+commit 947115e674e367d2968e06d646f2cf7af22d67de
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 01:53:40 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:53:40 up  1:14,  1 user,  load average: 0.52, 0.26, 0.20
+    8d2de2a5d56d82c38b10eca3faa76469622f5d3b
+
+commit c55c9fa1ce71569d325b2e7d425f28d88dcf5dd6
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 01:49:59 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:49:59 up  1:11,  1 user,  load average: 0.23, 0.26, 0.20
+    3d579ac14fe8ecc11c7bfb1f8e34f4b0f9a25717
+
+commit 3962088161d2f59eeb9755593d77d0fc62359118
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sat Mar 18 01:49:59 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     01:49:59 up  1:11,  1 user,  load average: 0.23, 0.26, 0.20
+    172219bc56492e9962475d9360c942306c4b0f0a
+
+commit 72f67230c104298b3ea0b1b9efff892483a2a226
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Sat Mar 18 01:46:17 2023 -0700
+
+    PA1 phase2
+
+commit fff641f60df4beb8e3c4fe5ad67f796bd5174e80
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Thu Mar 16 23:45:19 2023 -0700
+
+    PA1 phase2 check_parentheses
+
+commit a06dbf750e0c4fffe3721486acc6f052be5a20c3
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Wed Mar 15 03:31:45 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     03:31:45 up 1 min,  1 user,  load average: 0.84, 0.29, 0.10
+    dd4b0132c0c8c4a67240ff3b51803a4ee5ef045
+
+commit b521e8d2af897557975a0b4cf187635436ef0d9e
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Tue Mar 14 05:47:22 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     05:47:22 up  1:35,  1 user,  load average: 0.01, 0.03, 0.00
+    116317e38181fce1e808629f1802c898ed00b46
+
+commit d75f75269f7880b488044f7daf84b2d8e2049c0f
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Tue Mar 14 05:47:22 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     05:47:22 up  1:35,  1 user,  load average: 0.01, 0.03, 0.00
+    426b508e18f6d08a6ba6b0f5a5ccb4c89f28a231
+
+commit 580bb4548c9d2881164331351046d82bfee53505
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Tue Mar 14 05:47:10 2023 -0700
+
+    PA1 phase2 cmd_p
+
+commit 5c9dbdefc1b16b9e69effa43c30a893089085d2b
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Tue Mar 14 05:40:57 2023 -0700
+
+    PA1 phase2 token
+
+commit 13f9718b5a9289795d116dbd659965b396991bbf
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Mon Mar 13 21:20:25 2023 -0700
+
+    PA1 phase1 finished
+
+commit 1b9979e951e5abbace80d373e05ff26db59999d9
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:49:33 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:49:33 up  1:23,  1 user,  load average: 0.52, 0.17, 0.06
+    e265711ef1bf0fd5fe2ea9b855d715bb5eb004f3
+
+commit bd3b768a8b4236ac38915d2af71756b911164bce
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:49:33 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:49:33 up  1:23,  1 user,  load average: 0.52, 0.17, 0.06
+    bfb85301752a3321c7dcbd5d158f1208b77bec97
+
+commit 3fc02770ee63155616e0191688c33028d6a1f8de
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:43:49 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:43:49 up  1:17,  1 user,  load average: 0.13, 0.13, 0.05
+    82b686844f0555496737921bd1a6f31a10385e72
+
+commit 0fed4086ea6a1fc2a883bdc97f179dd1809f0a03
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:43:49 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:43:49 up  1:17,  1 user,  load average: 0.13, 0.13, 0.05
+    9f8a84246ae03f7257c31c17ef019743f6b0375
+
+commit ccc994f0bc62b740cda975f3c37bb274e465b295
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:34:50 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:34:50 up  1:08,  1 user,  load average: 0.25, 0.07, 0.02
+    ca32aab0496141e2b2c385fda1326cc8c50998d1
+
+commit 0e2db2dc43c49011a381b05da9260f52798e3357
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:34:50 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:34:50 up  1:08,  1 user,  load average: 0.25, 0.07, 0.02
+    c31b72fccf8fbbdcd0729de2ae10b1f96eec0d4c
+
+commit aed80d6f946c6fac35fb26a05c2a11b41784d3fc
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:25:53 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:25:53 up 59 min,  1 user,  load average: 0.00, 0.01, 0.01
+    f53fc02e8f4c826ca29fd1554ec4022b6475e789
+
+commit 3f9baa2c85632e70aefef374df123971879ad6ec
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:19:28 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:19:28 up 53 min,  1 user,  load average: 0.01, 0.02, 0.03
+    3f9906a9f1958d831bb75e833747b860e3d10892
+
+commit c96df764ccdb10ed447224a6c36bb8d1653e57b0
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:17:20 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:17:20 up 51 min,  1 user,  load average: 0.10, 0.04, 0.04
+    9e9b7ab4da5e9bafa7f8b1cb74801f85afdb0705
+
+commit 6c0e8bbd84625396a980f02e16d9196f84c1a6a0
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:17:20 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:17:20 up 51 min,  1 user,  load average: 0.10, 0.04, 0.04
+    e9740234483457e5ba4fae3c19acc51f63f58661
+
+commit e04a7ec83a418e4dcb9d175929f43300e08b3e61
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:10:48 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:10:48 up 44 min,  1 user,  load average: 0.18, 0.08, 0.07
+    d84b8c86c6e2da90f59af58637d99fd7d3437851
+
+commit a23f93a89f5cb7828ff99dd948a2a82891ae0968
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:10:48 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:10:48 up 44 min,  1 user,  load average: 0.18, 0.08, 0.07
+    541eb9adc81c25b642e32ac86afc7d72858beb30
+
+commit a0345890b5bb5686c945576157ce76d34c918e1a
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 20:03:53 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     20:03:53 up 37 min,  1 user,  load average: 0.04, 0.09, 0.08
+    8dd5e520b833ee42470b3bc8edc5bcff2c8ba66
+
+commit b608520e3a40a5e890bace4fd6705adcbacb7907
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 19:56:45 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     19:56:45 up 30 min,  1 user,  load average: 0.17, 0.14, 0.07
+    a382d6515ad9939e610c27d9799b120266e19df
+
+commit 84ea835d5cc536ec1cf03428943130c8941b3c96
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 19:56:45 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     19:56:45 up 30 min,  1 user,  load average: 0.17, 0.14, 0.07
+    9b15e0bc3e12bff361773de24700d5a4d787168
+
+commit 15f7d82b33ea48c0560377df4117816aa1e28e63
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 19:53:24 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     19:53:24 up 27 min,  1 user,  load average: 0.17, 0.10, 0.05
+    b5455e0adf95d15bbea17636ac38d0d3b7436e41
+
+commit 8bbdd1048681265c99409e069a5459262b386c3d
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 19:53:24 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     19:53:24 up 27 min,  1 user,  load average: 0.17, 0.10, 0.05
+    61640867ad36fcc4dabcdf0438fd8ac1ebe014ae
+
+commit eaa17e1d657cc83a5ff1fe907b6c5e8c7d970545
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 19:51:34 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     19:51:34 up 25 min,  1 user,  load average: 0.16, 0.09, 0.05
+    e36472fdb8b70babb8839fc6a2ca8b062ef08b
+
+commit 9e284b2c50e31ae399b7047c0a6af5d268dcbfdb
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 19:51:33 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     19:51:33 up 25 min,  1 user,  load average: 0.16, 0.09, 0.05
+    9f21a062d3f5c7bfc39b1590de90110726137950
+
+commit 2e17ae4cd42678f4c92e58b2e1be5a59652122e6
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Mon Mar 13 00:32:08 2023 -0700
+
+    PA1 phase1 cmd_si&cmd_info finished
+
+commit 480c36d306639a1238935da4f887c73bd0c23602
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 00:16:48 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     00:16:48 up 56 min,  1 user,  load average: 0.21, 0.05, 0.05
+    614547d5db71028c7910c4745939278a1b421
+
+commit 008697184a209e3e7d3eb72e6872fe50cbd4c968
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 00:16:48 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     00:16:48 up 56 min,  1 user,  load average: 0.21, 0.05, 0.05
+    febdb09fcfde011112eb721b1bdaf7357a3e2c3
+
+commit 0d6282fac24936093386e15d4de53e2ea6b89701
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 00:06:10 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     00:06:10 up 46 min,  1 user,  load average: 0.27, 0.09, 0.08
+    cc69b8d9e6d56662b03241e3dd830f2cc37b7a83
+
+commit e533a5215a25c5c734cd85bf0a82e509bc6a4c93
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 00:06:10 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     00:06:10 up 46 min,  1 user,  load average: 0.27, 0.09, 0.08
+    d1f35be98ae5072af6b214cb232ed1fdd98e9c93
+
+commit c743b730a1f85099dda92a01c33a5d00cba89a01
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 00:01:30 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     00:01:30 up 41 min,  1 user,  load average: 0.19, 0.10, 0.09
+    e46038151ed9783bba363417418ee12c4ef2cb19
+
+commit 82663c102bba574c7d9c0e8364df1ca13994043d
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Mon Mar 13 00:01:30 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     00:01:30 up 41 min,  1 user,  load average: 0.19, 0.10, 0.09
+    7d67b5cd4bf88cf5db860ebf522d8f05858b0071
+
+commit 945c91c1bfae1078d942aa84ade18de9e5d24b21
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 12 23:56:08 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     23:56:08 up 36 min,  1 user,  load average: 0.16, 0.12, 0.10
+    c47be5b980ea6378aa15ab7ca4106cd93a96b3f
+
+commit b9602aefaa17a606ba2d6b1d68e69776d1dd626e
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 12 23:50:33 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     23:50:33 up 30 min,  1 user,  load average: 0.38, 0.25, 0.13
+    174e75544860801f53d35e07ea497ea5cfaa5bbb
+
+commit 786f36184ae42883c5f2fc751a1fa40ec743e023
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 12 23:50:33 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     23:50:33 up 30 min,  1 user,  load average: 0.38, 0.25, 0.13
+    2076a330a6bbfd32d0d7dc88a5b5f3c1217c17d
+
+commit 8870c8cc8ba143998673fc77546b4cd93a2d401e
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Sun Mar 12 23:42:29 2023 -0700
+
+    ics2017 initialized
+    
+    nanos-lite da87b33b541164038df7e0a960ecf2f6ad9cc033 fix indention
+
+commit 28f1befa2552e182512f3580ecff0eb18464bbd2
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Sun Mar 12 23:40:53 2023 -0700
+
+    ics2017 initialized
+
+commit 5805b23ccc98b7a61650cc587d9d31b502f21b26
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Sun Mar 12 20:27:12 2023 -0700
+
+    PA1 phase1 cmd_si&cmd_info
+
+commit 0c54671a8c112a088b0ce52fabaf444d17bd0673
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Sun Mar 12 19:36:44 2023 -0700
+
+    PA1( previous git log missing, reupload code)
+
+commit a6e2ce32ef284562d77e16e8625e47e39f1b142c
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 12 19:25:29 2023 -0700
+
+    >  run
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     19:25:29 up 21 min,  1 user,  load average: 0.20, 0.05, 0.02
+    c66798179c241af67674d52d90ccf62ab467f94e
+
+commit 6f063044598dd449db2bd93726dca91059f8f9ba
+Author: tracer-ics2017 <tracer@njuics.org>
+Date:   Sun Mar 12 19:25:24 2023 -0700
+
+    >  compile
+    161220000
+    shox
+    Linux ubuntu 4.15.0-142-generic #146~16.04.1-Ubuntu SMP Tue Apr 13 09:26:57 UTC 2021 i686 athlon i686 GNU/Linux
+     19:25:24 up 21 min,  1 user,  load average: 0.22, 0.05, 0.02
+    f6be74373db29fd7a98b999825fc76465dbddb
+
+commit 849f5d509faf0b3e420e5c8640c8a3aa29e14be4
+Author: 2011188-Shao Qi <a94113829@126.com>
+Date:   Sun Mar 12 19:11:50 2023 -0700
+
+    ics2017 initialized
+    
+    navy-apps 3cb4bc3b35d81d93ee553a72df2fdf5e479240fa apps,pal: display trademark and splash screens
+
+commit 5b5b182ef51f58176117571d6b4780eb312b263a
+Merge: a811862 a7f5ac6
+Author: Zihao Yu <19884013+sashimi-yzh@users.noreply.github.com>
+Date:   Sat Feb 10 15:13:59 2018 +0800
+
+    Merge pull request #2 from CURAS/patch-1
+    
+    Typo
+
+commit a7f5ac6cb38888516858918b60fa669c53f0119d
+Author: CURAS <3398519433@qq.com>
+Date:   Sat Feb 10 11:19:34 2018 +0800
+
+    Typo
+
+commit a8118623d11f2c540825821d29d1737b1f714c8b
+Author: Zihao Yu <yuzihao@ict.ac.cn>
+Date:   Sat Aug 26 11:50:37 2017 +0800
+
+    init.sh: add retry
+
+commit 7d0c8943ce4ee05eda975d3c29678ac25fc59af4
+Author: Zihao Yu <yuzihao@ict.ac.cn>
+Date:   Fri Aug 25 17:24:20 2017 +0800
+
+    add README.md
+
+commit bfdc521994b2df6e29920ae635aa78920936eff4
+Author: Zihao Yu <yuzihao@ict.ac.cn>
+Date:   Wed Aug 23 22:41:17 2017 +0800
+
+    init.sh: record the HEADs of each subproject in the initialization commit log
+
+commit d53485895c5fe21c9b5aafd31bf06f7f7ba681ff
+Author: Zihao Yu <yuzihao@ict.ac.cn>
+Date:   Wed Aug 23 22:40:35 2017 +0800
+
+    init.sh: use readlink to get absolute path
+    
+    * ubuntu may not have realpath installed by default
+
+commit ae4e3e77574ebce23ad4f2d8b212f16ed775c5f4
+Author: Zihao Yu <yuzihao@ict.ac.cn>
+Date:   Wed Aug 23 16:03:56 2017 +0800
+
+    init.sh: source bashrc
+
+commit 1f274c0dd14e79370c7df1e743bec5326d3fe6a4
+Author: Zihao Yu <yuzihao@ict.ac.cn>
+Date:   Wed Aug 23 16:03:14 2017 +0800
+
+    Makefile: print a message by default, instead of cleaning everything
+
+commit 650f6930847f41c6c921806c27ed34ca75ebbeee
+Author: yzh <yuzihao@ict.ac.cn>
+Date:   Thu Aug 17 00:21:47 2017 +0800
+
+    Makefile: fix tar path
+
+commit 322acff6af13038101c6d0647873e6fd7b88f516
+Author: Zihao Yu <yuzihao@ict.ac.cn>
+Date:   Wed Aug 16 20:57:54 2017 +0800
+
+    first commit
